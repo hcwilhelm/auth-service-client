@@ -1,0 +1,541 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$authorized$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$createAuthToken$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$deleteAuthToken$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$deleteDevToken$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$getAuthToken$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$getDevToken$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/error/ErrorLike$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/error/ErrorLike.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Action$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Action.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Admin$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Admin.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Read$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Read.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/UnsupportedAction$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/UnsupportedAction.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Write$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Write.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken$$anonfun$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken$$anonfun$2.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken$$anonfun$1.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken$$anonfun$2.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken$.class
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken.class
+binary dependencies:
+22 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.2.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.2.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/.ivy2/cache/org.scalaz/scalaz-core_2.11/bundles/scalaz-core_2.11-7.2.2.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> /Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> /Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.2.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.1.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.2.jar
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> /Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> /Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client$$anonfun$authorized$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client$$anonfun$createAuthToken$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client$$anonfun$deleteAuthToken$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client$$anonfun$deleteDevToken$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client$$anonfun$getAuthToken$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io.relayr.authservice.Client$$anonfun$getDevToken$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> io.relayr.authservice.error.ErrorLike
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> io.relayr.authservice.error.ErrorLike$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Action
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Action$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Admin
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Admin$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Read
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Read$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.UnsupportedAction
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.UnsupportedAction$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Write
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io.relayr.authservice.model.Write$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> io.relayr.authservice.model.AuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> io.relayr.authservice.model.AuthToken$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> io.relayr.authservice.model.AuthToken$$anonfun$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> io.relayr.authservice.model.AuthToken$$anonfun$2
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> io.relayr.authservice.model.CreateAuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> io.relayr.authservice.model.CreateAuthToken$
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> io.relayr.authservice.model.CreateAuthToken$$anonfun$1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> io.relayr.authservice.model.CreateAuthToken$$anonfun$2
+used names:
+316 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> $bslash$div
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> $bslash$div$minus
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> $minus$bslash$div
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> +
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> <init>
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> AUTHORIZED_ROUTE
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> AUTHTOKEN_ROUTE
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Action
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ActorMaterializer
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ActorSystem
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> AhcWSClient
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> AnyRef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> AuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Boolean
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Client
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Codec
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> CreateAuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> DEVTOKEN_ROUTE
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ErrorLike
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ExecutionContext
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> FORBIDDEN
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Future
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Implicits
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Json
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> NO_CONTENT
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> OK
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Predef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Status
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> String
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> StringBuilder
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> UUID
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Unit
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> Writeable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> \/
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> action
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> actor
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ahc
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> akka
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> api
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> appId
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> append
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> apply
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> authservice
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> baseURL
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> body
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> concurrent
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> createAuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> delete
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> deviceId
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> error
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> get
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> global
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> http
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> io
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> java
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> json
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> jsonFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> libs
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> map
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> materializer
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> model
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> mvc
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> package
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> play
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> post
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> relayr
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> response
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> scalaz
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> status
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> stream
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> system
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> toJson
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> token
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> url
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> urlBuilder
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> utf_8
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> util
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> validate
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> writeableOf_JsValue
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> ws
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> &&
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> <init>
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> ==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> AbstractFunction2
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> ErrorLike
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> Int
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> None
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> Predef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> Product
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> ScalaRunTime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> Serializable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> Statics
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> String
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> _toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> anyHash
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> asInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> authservice
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> eq
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> error
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> finalizeHash
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> httpStatus
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> io
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> isInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> message
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> mix
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> relayr
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> runtime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> typedProductIterator
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> ||
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> &&
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> <init>
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> ==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> AbstractFunction1
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Action
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Admin
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> AnyRef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> None
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Option
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Predef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Product
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Read
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> ScalaRunTime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Serializable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> String
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> UnsupportedAction
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> Write
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> _hashCode
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> _toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> asInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> authservice
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> eq
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> io
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> isInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> model
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> o
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> relayr
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> runtime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> s
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> toLowerCase
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> typedProductIterator
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> value
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> ||
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> &&
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> <init>
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> ==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> AnyRef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> AuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Boolean
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> DateTime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> DefaultJodaDateReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> DefaultJodaDateWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Format
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> FunctionalCanBuild
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> GenericFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> JsPath
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> JsResult
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Json
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> List
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> None
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> OFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> OWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Option
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Predef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Product
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Reads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> ScalaRunTime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Serializable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> String
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> StringReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> StringWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> UUID
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> UuidWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> Writes
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> \
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> _hashCode
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> _toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> and
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> api
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> appId
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> applicative
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> applicativeJsResult
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> apply
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> asInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> authToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> authservice
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> canBuildFrom
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> eq
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> expiryDate
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> format
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> formatNullable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> functional
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> functionalCanBuildApplicative
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> functionalCanBuildFormats
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> functionalCanBuildOWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> immutable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> invariantFunctorOFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> io
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> isBeforeNow
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> isInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> issueDate
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> java
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> joda
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> json
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> jsonFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> libs
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> mark
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> model
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> org
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> package
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> play
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> relayr
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> runtime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> scopes
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> stringify
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> syntax
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> time
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> toFunctionalBuilderOps
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> toJson
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> token
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> traversableReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> traversableWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> typedProductIterator
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> unlift
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> userId
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> util
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> uuidReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> ||
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> &&
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> <init>
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> ==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> AnyRef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> CreateAuthToken
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> DateTime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> DefaultJodaDateReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> DefaultJodaDateWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Format
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> FunctionalCanBuild
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> GenericFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> JsPath
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> JsResult
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Json
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> List
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> None
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> OFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> OWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Option
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Predef
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Product
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Reads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> ScalaRunTime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Serializable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> String
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> StringReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> StringWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> UUID
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> UuidWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> Writes
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> \
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> _hashCode
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> _toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> and
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> api
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> appId
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> applicative
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> applicativeJsResult
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> apply
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> asInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> authservice
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> canBuildFrom
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> eq
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> expiryDate
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> format
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> formatNullable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> functional
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> functionalCanBuildApplicative
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> functionalCanBuildFormats
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> functionalCanBuildOWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> immutable
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> invariantFunctorOFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> io
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> isInstanceOf
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> java
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> joda
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> json
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> jsonFormat
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> libs
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> mark
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> model
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> org
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> package
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> play
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> relayr
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> runtime
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> scala
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> scopes
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> syntax
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> time
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> toFunctionalBuilderOps
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> toString
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> traversableReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> traversableWrites
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> typedProductIterator
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> unlift
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> userId
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> util
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> uuidReads
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> ||
+product stamps:
+27 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$authorized$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$createAuthToken$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$deleteAuthToken$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$deleteDevToken$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$getAuthToken$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client$$anonfun$getDevToken$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/Client.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/error/ErrorLike$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/error/ErrorLike.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Action$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Action.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Admin$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Admin.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken$$anonfun$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken$$anonfun$2.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/AuthToken.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken$$anonfun$1.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken$$anonfun$2.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/CreateAuthToken.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Read$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Read.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/UnsupportedAction$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/UnsupportedAction.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Write$.class -> lastModified(1459866986000)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/classes/io/relayr/authservice/model/Write.class -> lastModified(1459866986000)
+source stamps:
+5 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> hash(526e136d14c5c661a8252cc4f4a42bdc196df7c7)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> hash(522c28de4bcfe1344f8c0c2b63057897f81b0dbc)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> hash(e5dc74a3b211e5cd5831bf119acf709ccd3b75ce)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> hash(e0d79ec4dd4be212f1ce0efa0e1866c9334360c1)
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> hash(9b34571d1ee81c550b081b5a0c0733efece58f3c)
+binary stamps:
+10 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1450828997000)
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.2.jar -> lastModified(1455661167000)
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.2.jar -> lastModified(1455661670000)
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.1.jar -> lastModified(1459286381000)
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.1.jar -> lastModified(1459286375000)
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.5.1.jar -> lastModified(1459286420000)
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.1.jar -> lastModified(1459286352000)
+/Users/hcwilhelm/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.2.jar -> lastModified(1453988647000)
+/Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/Users/hcwilhelm/.ivy2/cache/org.scalaz/scalaz-core_2.11/bundles/scalaz-core_2.11-7.2.2.jar -> lastModified(1459542123000)
+class names:
+10 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.2.jar -> akka.actor.ActorSystem
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.2.jar -> akka.stream.ActorMaterializer
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.1.jar -> play.api.libs.functional.FunctionalBuilderOps
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.1.jar -> play.api.libs.json.JsPath$
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.5.1.jar -> play.api.libs.ws.ahc.AhcWSClient$
+/Users/hcwilhelm/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.1.jar -> play.api.http.Writeable$
+/Users/hcwilhelm/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.2.jar -> org.joda.time.DateTime
+/Users/hcwilhelm/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/Users/hcwilhelm/.ivy2/cache/org.scalaz/scalaz-core_2.11/bundles/scalaz-core_2.11-7.2.2.jar -> scalaz.$minus$bslash$div
+internal apis:
+5 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB9m05VAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbTSMXHQADG1hdGVyaWFsaXplcnNxAH4AC/yW2GV0AAZzeXN0ZW11cQB+AAkAAAAgc3EAfgALC5fHm3QABm5vdGlmeXNxAH4ACxZCq310AAtnZXREZXZUb2tlbnNxAH4AC5Xd6f10AAR3YWl0c3EAfgALymfDWXQADSRhc0luc3RhbmNlT2ZzcQB+AAufffmfdAAHYmFzZVVSTHNxAH4AC3J6MaZ0AAZlcXVhbHNzcQB+AAvGAKHddAAPQVVUSFRPS0VOX1JPVVRFc3EAfgALaXkRS3QAD2NyZWF0ZUF1dGhUb2tlbnNxAH4AC2CzZpN0AAxhc0luc3RhbmNlT2ZzcQB+AAvLbWixdAAMc3luY2hyb25pemVkc3EAfgAL2jc78HQADSRpc0luc3RhbmNlT2ZzcQB+AAu34okzdAAOREVWVE9LRU5fUk9VVEVzcQB+AAuCtPC4dAAKYXV0aG9yaXplZHNxAH4AC/0EqB50AAxnZXRBdXRoVG9rZW5zcQB+AAtPfEmMdAAJbm90aWZ5QWxsc3EAfgAL31iHTHQADGlzSW5zdGFuY2VPZnNxAH4AC+jyVg50AA5kZWxldGVEZXZUb2tlbnNxAH4AC0kJU6V0AAY8aW5pdD5zcQB+AAvcwzjTdAACPT1zcQB+AAv4mmRGdAAFY2xvbmVzcQB+AAsxYEgTdAAQQVVUSE9SSVpFRF9ST1VURXNxAH4AC4RVALR0AAh0b1N0cmluZ3NxAH4AC7nMaAZ0AA9kZWxldGVBdXRoVG9rZW5zcQB+AAv94yU+dAACIT1zcQB+AAs/s7cRdAAIZ2V0Q2xhc3NzcQB+AAsMm8OWdAAGQ2xpZW50c3EAfgALkH8j73QAAm5lc3EAfgALJ32b+nQAAndzc3EAfgALMXgTG3QAAmVxc3EAfgALoq5CFXQAAiMjc3EAfgALIXL/nHQACGZpbmFsaXplc3EAfgALuLyrvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHGlvLnJlbGF5ci5hdXRoc2VydmljZS5DbGllbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AcwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB6c3EAfgBzAXVxAH4AVgAAAABwc3EAfgBzAXVxAH4AVgAAAABwc3EAfgBzAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AeXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AeXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AknQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ak3NxAH4AhnQAA0FueXNxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJ0AAVzY2FsYXEAfgCZcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAlpby5yZWxheXJzcQB+AKN0AAJpb3NxAH4Ao3QAFWlvLnJlbGF5ci5hdXRoc2VydmljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+baWEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL1VzZXJzL2hjd2lsaGVsbS9SZWxheXIvQXV0aC1TZXJ2aWNlLUNsaWVudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUm4TbRTFxmGoJSzE9KQr3Blt98c=
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAiNToEAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFbNEtN0AAZub3RpZnlzcQB+AAxMWi5AdAAEd2FpdHNxAH4ADEZJB3x0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADB2LGHF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMHNlN7HQADHByb2R1Y3RBcml0eXNxAH4ADGMZ5mN0AAZlcXVhbHNzcQB+AAxP8MqldAAMYXNJbnN0YW5jZU9mc3EAfgAM9g34T3QADHN5bmNocm9uaXplZHNxAH4ADARf0050AA0kaXNJbnN0YW5jZU9mc3EAfgAMGqNYl3QACGNhbkVxdWFsc3EAfgAMBVQW33QADXByb2R1Y3RQcmVmaXhzcQB+AAwTNtEHdAAJbm90aWZ5QWxsc3EAfgAMjzG0cHQADGlzSW5zdGFuY2VPZnNxAH4ADGi6Sv50AAY8aW5pdD5zcQB+AAwT7lzIdAACPT1zcQB+AAzyhSWldAAFY2xvbmVzcQB+AAxMISA2dAAKaHR0cFN0YXR1c3NxAH4ADGV6Ey50AARjb3B5c3EAfgAMzN1jGHQAB21lc3NhZ2VzcQB+AAwtz/thdAAIdG9TdHJpbmdzcQB+AAxtUG97dAACIT1zcQB+AAxILE9edAAIZ2V0Q2xhc3NzcQB+AAwngwTwdAAOY29weSRkZWZhdWx0JDFzcQB+AAxfRzEndAAJRXJyb3JMaWtlc3EAfgAMGgf2XXQAAm5lc3EAfgAMn87KenQAAmVxc3EAfgAM++9fp3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADDoXKbt0AAIjI3NxAH4ADLT63qF0AAhmaW5hbGl6ZXNxAH4ADP8mCm10AA5wcm9kdWN0RWxlbWVudHNxAH4ADM7JUQR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACVpby5yZWxheXIuYXV0aHNlcnZpY2UuZXJyb3IuRXJyb3JMaWtldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIBxAH4Ag3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIx0AARqYXZhc3EAfgCMdAACaW9xAH4AkXNxAH4AgHQAB1Byb2R1Y3RxAH4AhnNxAH4AgHQABkVxdWFsc3EAfgCGc3EAfgCAdAAGT2JqZWN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgCXc3EAfgCMdAAEbGFuZ3EAfgCRc3EAfgCAdAADQW55cQB+AIZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWlvLnJlbGF5cnNxAH4AqnQAAmlvc3EAfgCqdAAbaW8ucmVsYXlyLmF1dGhzZXJ2aWNlLmVycm9yc3EAfgCqdAAVaW8ucmVsYXlyLmF1dGhzZXJ2aWNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFT5tpYSXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvaGN3aWxoZWxtL1JlbGF5ci9BdXRoLVNlcnZpY2UtQ2xpZW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRSLCjeS8/hNE+MDCtjBXiX+BsNvA==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBc/lJRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMrUXQ50AAZub3RpZnlzcQB+AAxVWJLcdAAHdW5hcHBseXNxAH4ADIoazet0AARSZWFkc3EAfgAMeO4LgXQABUFkbWluc3EAfgAM5NpQWXQABHdhaXRzcQB+AAwCMf3RdAANJGFzSW5zdGFuY2VPZnNxAH4ADOxG4uR0AAxwcm9kdWN0QXJpdHlzcQB+AAxTLFDYdAAGZXF1YWxzc3EAfgAMirSJa3QADGFzSW5zdGFuY2VPZnNxAH4ADE7qBq50AAxzeW5jaHJvbml6ZWRzcQB+AAzOMVSLdAANJGlzSW5zdGFuY2VPZnNxAH4ADN7XQsV0AAhjYW5FcXVhbHNxAH4ADJZQP+90AA1wcm9kdWN0UHJlZml4c3EAfgAMko/x/HQACW5vdGlmeUFsbHNxAH4ADIjgNXt0AAtyZWFkUmVzb2x2ZXNxAH4ADC5dx9N0AAxpc0luc3RhbmNlT2ZzcQB+AAyBH5SkdAAGPGluaXQ+c3EAfgAM9alXg3QABVdyaXRlc3EAfgAMMPvLMnQABWFwcGx5c3EAfgAMNnobWXQAEVVuc3VwcG9ydGVkQWN0aW9uc3EAfgAMVsiAQHQAAj09c3EAfgAMIMw5onQABWNsb25lc3EAfgAMvakrxXQABGNvcHlzcQB+AAzBBUk3dAAIdG9TdHJpbmdzcQB+AAwOWubrdAACIT1zcQB+AAy49AbvdAAIZ2V0Q2xhc3NzcQB+AAxbL1zIdAAOY29weSRkZWZhdWx0JDFzcQB+AAzg0XIVdAACbmVzcQB+AAxFTm7YdAAFdmFsdWVzcQB+AAxHikFjdAAGQWN0aW9uc3EAfgAM2XEKjnQAAmVxc3EAfgAMf7mOz3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNfoTEx0AAIjI3NxAH4ADHpeuOh0AAhmaW5hbGl6ZXNxAH4ADDeFr4Z0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKD9pI50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0ACJpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuQWN0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfnNxAH4AdwF1cQB+AFoAAAAAcHNxAH4AdwF1cQB+AFoAAAAAcHNxAH4AdwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJdzcQB+AIp0AANBbnlzcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWdAAFc2NhbGFxAH4AnXBwc3EAfgBccQB+AGl1cQB+AGoAAAAAc3EAfgBsAHQAIGlvLnJlbGF5ci5hdXRoc2VydmljZS5tb2RlbC5SZWFkdXEAfgBvAAAAAH5xAH4AcXQABk1vZHVsZXVxAH4AdQAAAABzcQB+AHcBcQB+AH9wc3EAfgB3AXNxAH4AgXNxAH4AdwF1cQB+AFoAAAAAcHNxAH4AdwF1cQB+AFoAAAAAcHNxAH4AdwF1cQB+AIgAAAAHc3EAfgCKdAAMU2VyaWFsaXphYmxlc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AIpxAH4At3NxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnQAAmlvcQB+AJ1zcQB+AIp0AAdQcm9kdWN0cQB+ALhzcQB+AIp0AAZFcXVhbHNxAH4AuHNxAH4AinQABkFjdGlvbnNxAH4AjnNxAH4AkXVxAH4AlAAAAAVzcQB+AJZ0AAJpb3NxAH4AlnQABnJlbGF5cnNxAH4AlnQAC2F1dGhzZXJ2aWNlc3EAfgCWdAAFbW9kZWxxAH4AnXNxAH4AinEAfgCNc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWcQB+AJtxAH4AnXNxAH4AinEAfgCfcQB+ALhwcHNxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0ACFpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuV3JpdGV1cQB+AG8AAAAAcQB+AKp1cQB+AHUAAAAAc3EAfgB3AXEAfgB/cHNxAH4AdwFzcQB+AIFzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgCIAAAAB3NxAH4AinEAfgC3c3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AIpxAH4At3NxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnQAAmlvcQB+AJ1zcQB+AIpxAH4AxHEAfgDrc3EAfgCKdAAGRXF1YWxzcQB+AOtzcQB+AIp0AAZBY3Rpb25zcQB+AI5zcQB+AJF1cQB+AJQAAAAFc3EAfgCWdAACaW9zcQB+AJZ0AAZyZWxheXJzcQB+AJZ0AAthdXRoc2VydmljZXNxAH4AlnQABW1vZGVscQB+AJ1zcQB+AIpxAH4AjXNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnEAfgCbcQB+AJ1zcQB+AIpxAH4An3EAfgDrcHBzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAhaW8ucmVsYXlyLmF1dGhzZXJ2aWNlLm1vZGVsLkFkbWludXEAfgBvAAAAAHEAfgCqdXEAfgB1AAAAAHNxAH4AdwFxAH4Af3BzcQB+AHcBc3EAfgCBc3EAfgB3AXVxAH4AWgAAAABwc3EAfgB3AXVxAH4AWgAAAABwc3EAfgB3AXVxAH4AiAAAAAdzcQB+AIpxAH4At3NxAH4AjnNxAH4AkXVxAH4AlAAAAAJzcQB+AJZxAH4ApHEAfgCdc3EAfgCKcQB+ALdzcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZ0AAJpb3EAfgCdc3EAfgCKcQB+AMRxAH4BHXNxAH4AinQABkVxdWFsc3EAfgEdc3EAfgCKdAAGQWN0aW9uc3EAfgCOc3EAfgCRdXEAfgCUAAAABXNxAH4AlnQAAmlvc3EAfgCWdAAGcmVsYXlyc3EAfgCWdAALYXV0aHNlcnZpY2VzcQB+AJZ0AAVtb2RlbHEAfgCdc3EAfgCKcQB+AI1zcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZxAH4Am3EAfgCdc3EAfgCKcQB+AJ9xAH4BHXBwc3EAfgBccQB+AGl1cQB+AGoAAAAAc3EAfgBsAHQALWlvLnJlbGF5ci5hdXRoc2VydmljZS5tb2RlbC5VbnN1cHBvcnRlZEFjdGlvbnVxAH4AbwAAAAB+cQB+AHF0AAhDbGFzc0RlZnVxAH4AdQAAAABzcQB+AHcBcQB+AH9wc3EAfgB3AXNxAH4AgXNxAH4AdwF1cQB+AFoAAAAAcHNxAH4AdwF1cQB+AFoAAAAAcHNxAH4AdwF1cQB+AIgAAAAHc3EAfgCKcQB+ALdzcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWcQB+AKRxAH4AnXNxAH4AinEAfgC3c3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWdAACaW9xAH4AnXNxAH4AinEAfgDEcQB+AVFzcQB+AIp0AAZFcXVhbHNxAH4BUXNxAH4AinQABkFjdGlvbnNxAH4AjnNxAH4AkXVxAH4AlAAAAAVzcQB+AJZ0AAJpb3NxAH4AlnQABnJlbGF5cnNxAH4AlnQAC2F1dGhzZXJ2aWNlc3EAfgCWdAAFbW9kZWxxAH4AnXNxAH4AinEAfgCNc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWcQB+AJtxAH4AnXNxAH4AinEAfgCfcQB+AVFwcHNxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0ACJpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuQWN0aW9udXEAfgBvAAAAAHEAfgCqdXEAfgB1AAAAAHNxAH4AdwFxAH4Af3BzcQB+AHcBc3EAfgCBc3EAfgB3AXVxAH4AWgAAAABwc3EAfgB3AXVxAH4AWgAAAABwc3EAfgB3AXVxAH4AiAAAAAJzcQB+AIpxAH4AjXNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnEAfgCbcQB+AJ1zcQB+AIpxAH4An3NxAH4AjnNxAH4AkXVxAH4AlAAAAAJzcQB+AJZxAH4ApHEAfgCdcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlpby5yZWxheXJzcQB+AY90AAJpb3NxAH4Bj3QAG2lvLnJlbGF5ci5hdXRoc2VydmljZS5tb2RlbHNxAH4Bj3QAFWlvLnJlbGF5ci5hdXRoc2VydmljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+baWEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL1VzZXJzL2hjd2lsaGVsbS9SZWxheXIvQXV0aC1TZXJ2aWNlLUNsaWVudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5dx0o7IR5c1YMb8Rms9wnM07dc4=
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHABduNIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwiRKjqnQACmpzb25Gb3JtYXR1cQB+AAkAAAAwc3EAfgALmJoN4HQABm5vdGlmeXNxAH4AC3WI8VF0AAd1bmFwcGx5c3EAfgALc6psc3QABHdhaXRzcQB+AAtTsEB9dAAOY29weSRkZWZhdWx0JDJzcQB+AAu3cGmqdAANJGFzSW5zdGFuY2VPZnNxAH4ACxt0XeF0AA5jb3B5JGRlZmF1bHQkNXNxAH4AC1/pL4N0AAxwcm9kdWN0QXJpdHlzcQB+AAvL4UTBdAAGZXF1YWxzc3EAfgALawLZ8HQADGFzSW5zdGFuY2VPZnNxAH4AC0e4TsN0AA9hcHBseSRkZWZhdWx0JDdzcQB+AAuOc5FLdAAGc2NvcGVzc3EAfgAL+OGxw3QADHN5bmNocm9uaXplZHNxAH4AC5FW8mp0ABA8aW5pdD4kZGVmYXVsdCQ3c3EAfgALJV+s/3QADSRpc0luc3RhbmNlT2ZzcQB+AAuDVQYydAAIY2FuRXF1YWxzcQB+AAtjh5mVdAAOY29weSRkZWZhdWx0JDRzcQB+AAs4iyR+dAANcHJvZHVjdFByZWZpeHNxAH4AC/ZAN9t0AApleHBpcnlEYXRlc3EAfgALLwVyo3QACW5vdGlmeUFsbHNxAH4ACziGAih0AAtyZWFkUmVzb2x2ZXNxAH4AC0iaAPB0AAxpc0luc3RhbmNlT2ZzcQB+AAv4DrYvdAAGPGluaXQ+c3EAfgALemhHQnQABWFwcGx5c3EAfgALKTRx8XQAAj09c3EAfgAL8oxmwXQABWNsb25lc3EAfgAL4oaDjnQABXRva2Vuc3EAfgALD1hMIXQADmNvcHkkZGVmYXVsdCQ3c3EAfgALwQNF73QADmNvcHkkZGVmYXVsdCQzc3EAfgALsLWCwHQABGNvcHlzcQB+AAuiyFzvdAAIdG9TdHJpbmdzcQB+AAtIdXhodAAJaXNzdWVEYXRlc3EAfgALQjVdy3QAAiE9c3EAfgALr43LxXQACUF1dGhUb2tlbnNxAH4AC/2/q4h0AAhnZXRDbGFzc3NxAH4AC8/SXD90AAZ1c2VySWRzcQB+AAuTS2/1dAAOY29weSRkZWZhdWx0JDFzcQB+AAtCEXo7dAAFYXBwSWRzcQB+AAvkbYBwdAAEbWFya3NxAH4AC3ohd/t0AAx0b0pzb25TdHJpbmdzcQB+AAuyVVQRdAAOY29weSRkZWZhdWx0JDZzcQB+AAsW5J8OdAACbmVzcQB+AAuAWdI+dAAJaXNFeHBpcmVkc3EAfgALGOrb53QAAmVxc3EAfgAL2Wrwc3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACwaOVRZ0AAIjI3NxAH4AC3t76GB0AAhmaW5hbGl6ZXNxAH4AC3oVfCh0AA5wcm9kdWN0RWxlbWVudHNxAH4ACzz2jBF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACVpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuQXV0aFRva2VudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHlMAAlpbmhlcml0ZWRxAH4AeUwAB3BhcmVudHNxAH4AeXhxAH4AmHNxAH4AkQF1cQB+AHQAAAAAcHNxAH4AkQF1cQB+AHQAAAAAcHNxAH4AkQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJd0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALFzcQB+AKRxAH4Ap3NxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALB0AARqYXZhc3EAfgCwdAACaW9xAH4AtXNxAH4ApHQAB1Byb2R1Y3RxAH4AqnNxAH4ApHQABkVxdWFsc3EAfgCqc3EAfgCkdAAGT2JqZWN0c3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHEAfgC7c3EAfgCwdAAEbGFuZ3EAfgC1c3EAfgCkdAADQW55cQB+AKpwcHNxAH4AdnEAfgCDdXEAfgCEAAAAAHNxAH4AhgB0ACVpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuQXV0aFRva2VudXEAfgCJAAAAAH5xAH4Ai3QABk1vZHVsZXVxAH4AjwAAAABzcQB+AJEBcQB+AJlwc3EAfgCRAXNxAH4Am3NxAH4AkQF1cQB+AHQAAAAAcHNxAH4AkQF1cQB+AHQAAAAAcHNxAH4AkQF1cQB+AKIAAAAEc3EAfgCkcQB+AKdzcQB+AKhzcQB+AKt1cQB+AK4AAAACc3EAfgCwcQB+ALNxAH4AtXNxAH4ApHEAfgCnc3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHEAfgC7c3EAfgCwdAACaW9xAH4AtXNxAH4ApHEAfgDDc3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHEAfgC7c3EAfgCwcQB+AMlxAH4AtXNxAH4ApHEAfgDLcQB+AN5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWlvLnJlbGF5cnNxAH4A8nQAAmlvc3EAfgDydAAbaW8ucmVsYXlyLmF1dGhzZXJ2aWNlLm1vZGVsc3EAfgDydAAVaW8ucmVsYXlyLmF1dGhzZXJ2aWNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFT5tpYSXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEUvVXNlcnMvaGN3aWxoZWxtL1JlbGF5ci9BdXRoLVNlcnZpY2UtQ2xpZW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTg157E3UviEvHODvoOGGbJM0NgwQ==
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPgxDfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvXN2jHQACmpzb25Gb3JtYXR1cQB+AAkAAAAoc3EAfgALYLDIzHQABm5vdGlmeXNxAH4ACwwVsWd0AAd1bmFwcGx5c3EAfgAL36v6nnQABHdhaXRzcQB+AAvG5S+idAAOY29weSRkZWZhdWx0JDJzcQB+AAskxusmdAANJGFzSW5zdGFuY2VPZnNxAH4AC64/+fR0AA5jb3B5JGRlZmF1bHQkNXNxAH4ACyX5dMp0AAxwcm9kdWN0QXJpdHlzcQB+AAt8D1VXdAAGZXF1YWxzc3EAfgALIVbX0HQADGFzSW5zdGFuY2VPZnNxAH4AC4K/u5x0AAZzY29wZXNzcQB+AAt6DePddAAMc3luY2hyb25pemVkc3EAfgALBhGAJ3QADSRpc0luc3RhbmNlT2ZzcQB+AAtFOTpsdAAIY2FuRXF1YWxzcQB+AAuZGZLUdAAOY29weSRkZWZhdWx0JDRzcQB+AAtAvlT0dAANcHJvZHVjdFByZWZpeHNxAH4AC1Cy6Jp0AApleHBpcnlEYXRlc3EAfgALB8QOLHQACW5vdGlmeUFsbHNxAH4AC/f7iVF0AAtyZWFkUmVzb2x2ZXNxAH4AC4fd9WZ0AAxpc0luc3RhbmNlT2ZzcQB+AAuZBXbfdAAGPGluaXQ+c3EAfgALs9L+VHQABWFwcGx5c3EAfgALGIxUgXQAAj09c3EAfgALWtsmGnQABWNsb25lc3EAfgALRgRqXHQAD0NyZWF0ZUF1dGhUb2tlbnNxAH4AC8xIk810AA5jb3B5JGRlZmF1bHQkM3NxAH4ACz61hvR0AARjb3B5c3EAfgALi2FVeXQACHRvU3RyaW5nc3EAfgALAxCZ9nQAAiE9c3EAfgALeQ1DwHQACGdldENsYXNzc3EAfgALtOEw8XQABnVzZXJJZHNxAH4ACzmV7SF0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC4U7mU50AAVhcHBJZHNxAH4AC25L/Vd0AARtYXJrc3EAfgALhxUv6HQAAm5lc3EAfgALA8dqL3QAAmVxc3EAfgALaYdWJ3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACwhc8DF0AAIjI3NxAH4AC/h9gKJ0AAhmaW5hbGl6ZXNxAH4AC0AQiJV0AA5wcm9kdWN0RWxlbWVudHNxAH4AC5EZXJR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACtpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuQ3JlYXRlQXV0aFRva2VudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AiHNxAH4AgQF1cQB+AGQAAAAAcHNxAH4AgQF1cQB+AGQAAAAAcHNxAH4AgQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AId0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKFzcQB+AJRxAH4Al3NxAH4AmHNxAH4Am3VxAH4AngAAAANzcQB+AKB0AARqYXZhc3EAfgCgdAACaW9xAH4ApXNxAH4AlHQAB1Byb2R1Y3RxAH4AmnNxAH4AlHQABkVxdWFsc3EAfgCac3EAfgCUdAAGT2JqZWN0c3EAfgCYc3EAfgCbdXEAfgCeAAAAA3NxAH4AoHEAfgCrc3EAfgCgdAAEbGFuZ3EAfgClc3EAfgCUdAADQW55cQB+AJpwcHNxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0ACtpby5yZWxheXIuYXV0aHNlcnZpY2UubW9kZWwuQ3JlYXRlQXV0aFRva2VudXEAfgB5AAAAAH5xAH4Ae3QABk1vZHVsZXVxAH4AfwAAAABzcQB+AIEBcQB+AIlwc3EAfgCBAXNxAH4Ai3NxAH4AgQF1cQB+AGQAAAAAcHNxAH4AgQF1cQB+AGQAAAAAcHNxAH4AgQF1cQB+AJIAAAAEc3EAfgCUcQB+AJdzcQB+AJhzcQB+AJt1cQB+AJ4AAAACc3EAfgCgcQB+AKNxAH4ApXNxAH4AlHEAfgCXc3EAfgCYc3EAfgCbdXEAfgCeAAAAA3NxAH4AoHEAfgCrc3EAfgCgdAACaW9xAH4ApXNxAH4AlHEAfgCzc3EAfgCYc3EAfgCbdXEAfgCeAAAAA3NxAH4AoHEAfgCrc3EAfgCgcQB+ALlxAH4ApXNxAH4AlHEAfgC7cQB+AM5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWlvLnJlbGF5cnNxAH4A4nQAAmlvc3EAfgDidAAbaW8ucmVsYXlyLmF1dGhzZXJ2aWNlLm1vZGVsc3EAfgDidAAVaW8ucmVsYXlyLmF1dGhzZXJ2aWNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFT5tpYSXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEUvVXNlcnMvaGN3aWxoZWxtL1JlbGF5ci9BdXRoLVNlcnZpY2UtQ2xpZW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSbNFcdHugcVQsIG1oMBzPv7OWPPA==
+external apis:
+0 items
+source infos:
+5 items
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/Client.scala -> 
+AAAAAAAAAAA=
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/error/ErrorLike.scala -> 
+AAAAAAAAAAA=
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/Action.scala -> 
+AAAAAAAAAAA=
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/AuthToken.scala -> 
+AAAAAAAAAAA=
+/Users/hcwilhelm/Relayr/Auth-Service-Client/src/main/scala/io/relayr/authservice/model/CreateAuthToken.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+GLrCd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+GORTl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+GOqlZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+GPKXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+V4y0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+WC40p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+WGRap1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+W+VOZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+ZiCV11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+Zj7Jt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+aiJCl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+anUyp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+baWEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9oY3dpbGhlbG0vUmVsYXlyL0F1dGgtU2VydmljZS1DbGllbnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

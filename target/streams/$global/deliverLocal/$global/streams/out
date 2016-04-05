@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: io.relayr#auth-service-client_2.11;1.0-SNAPSHOT :: 1.0-SNAPSHOT :: integration :: Tue Apr 05 16:36:39 CEST 2016[0m
+[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Tue Apr 05 16:36:39 CEST 2016 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/hcwilhelm/Relayr/Auth-Service-Client/target/scala-2.11/ivy-1.0-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (40ms)[0m

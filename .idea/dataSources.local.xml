@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - relayr@localhost" uuid="6eea5dba-9267-498b-a3ef-379a48d44cae">
+      <secret-storage>master_key</secret-storage>
+      <user-name>hcwilhelm</user-name>
+      <schema-pattern>postgres.pg_catalog postgres.public</schema-pattern>
+      <default-schemas>postgres.public</default-schemas>
+    </data-source>
+  </component>
+</project>
